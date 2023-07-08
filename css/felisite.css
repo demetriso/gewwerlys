@@ -1,0 +1,185 @@
+body{ background-color: #DDB892;}
+
+
+.slogan{ min-width: max-content;
+    width:2000px;
+    height:800px;
+margin-top: -80px;
+margin-left: -15px
+}
+.slgtext{
+    
+    position: absolute;
+    width: 973px;
+    height: 81px;
+    left: 386px;
+    top: 289px;
+    font-family: 'Inspiration';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    line-height: 8px;
+    color: #000000;
+}
+.slgtext2{position: absolute;
+    width: 553px;
+    height: 47px;
+    left: 825px;
+    top: 360px;
+    
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.foto1{ 
+    margin-left: 700px;
+    
+    }
+    .foto2{
+        margin-left: 575px;
+        margin-top: -441px;
+        }
+    .foto3{
+            margin-left: 1107px;
+            margin-top: -594px;
+        }
+.sist{position: absolute;
+    width: 219px;
+    height: 68px;
+    left: 229px;
+    top: 981px;
+    
+    font-family: 'Piazzolla';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 48px;
+    line-height: 68px;
+    
+    color: #000000;}
+.sist2{position: absolute;
+    width: 798px;
+    height: 149px;
+    left: 5px;
+    top: 1096px;
+    font-family: 'Piazzolla';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 24px;
+    line-height: 34px;
+    color: #000000;
+}
+.emma{     margin-top: -248px;
+    margin-left: -495px;
+    width: 2477.84px;
+    height: 1652px;
+}
+.emma2{ 
+    margin-top: -876px;
+    margin-left: 51px;
+    font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 100;
+font-size: 64px;
+line-height: 68px;
+}
+.emma3{
+    margin-top: 366px;
+    margin-left: 716px;
+
+}
+.why{ margin-left: 161px;
+}
+.mir{ margin-left: 420px;
+}
+.mir2{position: absolute;
+width: 808px;
+height: 259px;
+left: 631px;
+    top: 4213px;
+
+font-family: 'Piazzolla';
+font-style: normal;
+font-weight: 100;
+font-size: 59px;
+line-height: 84px;
+
+color: #000000;
+}
+.sist3{
+    position: absolute;
+width: 432px;
+height: 136px;
+left: 1130px;
+top: 4594px;
+
+font-family: 'Piazzolla';
+font-style: normal;
+font-weight: 100;
+font-size: 96px;
+line-height: 136px;
+
+color: #000000;
+
+
+}
+.sist4{position: absolute;
+    width: 634px;
+    height: 252px;
+    left: 1048px;
+    top: 4775px;
+    
+    font-family: 'Piazzolla';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+
+
+
+
+
+
+
+}
+.sist5{position: absolute;
+    width: 634px;
+    height: 252px;
+    left: 1090px;
+    top: 4875px;
+    
+    font-family: 'Piazzolla';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 28px;
+    
+    color: #000000;
+    }
+    .ks{ position: absolute;
+        left: 1090px;
+        top: 4875px;
+
+
+    }
+  
+
+
+
+
+
+
+
+
+
+
+
+
